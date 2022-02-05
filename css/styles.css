@@ -9,7 +9,7 @@ body {
 
 .clouds {
   position: absolute;
-  width: 100%;
+  width: auto;
   top: 0;
   height: 625px;
   right: 20px;
