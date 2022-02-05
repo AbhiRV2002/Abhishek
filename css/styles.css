@@ -7,6 +7,14 @@ body {
   font-size: 1.4em;
 }
 
+.clouds {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  height: 625px;
+  right: 20px;
+}
+
 .abhishek-img {
   margin-top: 10px;
   width: 200px;
